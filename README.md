@@ -1,6 +1,6 @@
 <h1 align="center">calculador_imc</h1> 
 
-Projeto feito para estudo de flutter
+Projeto feito para estudo de flutter <br>
 Um aplicativo para calculo de IMC pessoal.
 
 <h1 align="center">App</h1> 
